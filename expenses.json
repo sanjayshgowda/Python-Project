@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "description": "petrol",
+        "amount": 1000.0,
+        "date": "30-09-24 18:22:39"
+    },
+    {
+        "description": "Food",
+        "amount": 100.0,
+        "date": "30-09-24 18:22:50"
+    }
+]
